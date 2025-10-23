@@ -34,12 +34,6 @@ This project contains a collection of **advanced SQL analytical queries** design
 
 ---
 
-## 📂 Files Included
-- `library_analytics_report.sql` → All analytical queries  
-- `README.md` → Project overview and insights  
-
----
-
 ## 🌟 Author
 👤 **Ali Abu Salah**  
 🎓 Data Science & Artificial Intelligence  
